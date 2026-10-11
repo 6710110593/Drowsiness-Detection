@@ -1,0 +1,6 @@
+﻿timestamp,event,level,duration_sec,detail
+2026-10-08 02:40:21,YAWN,SOFT,3.01,MAR=0.76
+2026-10-08 02:42:13,YAWN,SOFT,3.01,MAR=0.74
+2026-10-08 02:44:37,YAWN,SOFT,3.07,MAR=0.81
+2026-10-08 02:44:50,YAWN,SOFT,3.02,MAR=0.64
+2026-10-08 02:45:37,SESSION_SUMMARY,INFO,344.34,"blinks=41, yawns=4, soft_alerts=4, loud_alerts=0"

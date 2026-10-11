@@ -1,0 +1,2 @@
+﻿timestamp,event,level,duration_sec,detail
+2026-10-08 02:28:12,SESSION_SUMMARY,INFO,15.01,"blinks=0, yawns=0, soft_alerts=0, loud_alerts=0"
